@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+  padding: 8px;
+}
+
+.suggestion {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.arrow-img {
+  height: 18px;
+  width: 15px;
+  background-size: cover;
+}
